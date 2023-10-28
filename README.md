@@ -116,6 +116,6 @@
 
 ## License
 
-[MIT](https://github.com/PRaichu/xxqg/blob/master/LICENSE)
+[MIT](https://github.com/shengjiangfeng/xxqg/blob/master/LICENSE)
 
-Copyright (c) 2020-present PRaichu
+Copyright (c) 2023-present SHENGJIANGFENG
